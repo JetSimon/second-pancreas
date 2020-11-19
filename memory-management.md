@@ -13,7 +13,7 @@ All programs are stored in main memory when they are executed. All data referenc
 
 The solution is to use two kinds of addresses: logical addresses and physical addresses. A logical address (sometimes called a virtual or relative address) is a value that specifies a generic location relative to the program but not to the reality of main memory. A physical address is an actual address in the main memory device.
 
-The mapping of a logical address to a physi- cal address is called address binding.
+The mapping of a logical address to a physical address is called address binding.
 
 ## Types of Memory Management
 
