@@ -12,5 +12,8 @@
 ## Tips to Solving Problems
 
 1. Write out what you know, make a diagram, label it!
-2. Keep a list of formulas. If you don't have one you [can use mine](physics-1118-formula-sheet.md)!
+2. Keep a list of formulas. If you don't have one [you can use mine](physics-1118-formula-sheet.md)!
 3. Think about which formulas have most of the variables you already know. Ideally you want to be able to just solve for one variable.
+4. Write what you are trying to solve for on the page so you don't forget! If you organize all the pieces it is easier to solve a puzzle.
+5. Be sure to write down units at every step to avoid mistakes.
+6. Do not write gravity as -9.81 m/s<sup>2<sup>. The negative will probably mess you up. 
