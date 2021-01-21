@@ -15,3 +15,6 @@ Definition of Acceleration:
 The Displacement Curve: 
 >x - x<sub>0</sub> = v<sub>0</sub>t + ½ . a . t<sup>2</sup>
 
+Kinematic Formulas from Khan Academy:
+
+![](assets/images/kinetmatic-formulas.png)
