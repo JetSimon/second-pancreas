@@ -18,3 +18,7 @@ The Displacement Curve:
 Kinematic Formulas from Khan Academy:
 
 ![](assets/images/kinetmatic-formulas.png)
+
+Range Formula (to get horizontal distance a projectile can travel):
+![](assets/images/range-formula.png)
+from textbook
