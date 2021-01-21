@@ -21,4 +21,6 @@ Kinematic Formulas from Khan Academy:
 
 Range Formula (to get horizontal distance a projectile can travel):
 ![](assets/images/range-formula.png)
-from textbook
+picture from textbook
+
+>Where R is distanced travelled horizontally, v<sub>0</sub><sup>2</sup> is initial velocity (total, not x/y components) multiplied by sin2θ all over g. This means to find angle, you need to input g then multiply equation by g. Then plug in initial velocity and square it. Then divide equation by that squared velocity. Then get the inverse sin of that number and divide it by 2 to get the original angle.
