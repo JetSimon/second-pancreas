@@ -28,6 +28,8 @@ picture from textbook
 
 > To find another angle with the same result, take 90 - angle you got. For example 90-20=60, so 20 and 60 degrees should give teh same result for range.
 
+## Forces
+
 Force:
 
 > F = ma
@@ -45,3 +47,30 @@ Where N is usually weight
 
 Kinematic (Moving) Friction:
 >f<sub>k</sub> = μ<sub>k</sub>N
+
+## Centripetal Force
+
+T = period of motion (how long it takes to get to the same spot in the circle).
+
+f (frequency) = how many revolutions per second = 1/T Hz (hertz)
+
+Circumference = c = 2π * Radius
+
+How Velocity Acts in Circular Motion:
+![](assets/images/circle-motion.png)
+
+Velocity Equation for Uniform Circular Motion:
+> v = 2πr / T = Circumference / Period
+
+(Magnitude of Centripetal) Acceleration 
+> a = v<sup>2</sup> / r
+
+Get Angle at Time (θ in radians):
+> θ = (-π/30 * t) + (π/2)
+
+Angles Chart:
+
+![](assets/images/angles.png)
+
+Force of Gravity:
+![](assets/images/gravity-formula.png)
