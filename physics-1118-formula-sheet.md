@@ -56,11 +56,20 @@ f (frequency) = how many revolutions per second = 1/T Hz (hertz)
 
 Circumference = c = 2π * Radius
 
+ω<sub>z</sub> = constant angular velocity
+
 d (diameter) = 2r
 
-Change in angle formula:
+Constant Angular Velocity Finder:
+> θ(t)=ω<sub>z</sub> * t+θ<sub>0</sub>
+ 
 
-> Δθ = Δs / r (Δs = change in arc length)
+Revolutions to Radians:
+> 2πrad / rev
+
+Change in angle formula (θ in radians):
+
+> Δθ = Δs / r (Δs = change in arc length = distanced travelled in circle)
 
 How Velocity Acts in Circular Motion:
 ![](assets/images/circle-motion.png)
