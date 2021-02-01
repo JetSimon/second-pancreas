@@ -1,6 +1,7 @@
 Things to Remember
 * Displacement is not distance! Displacement is final distance travelled! You could go to New York and back but your displacement would be 0.
 * Make sure you do not include unnecessary forces in a free body diagram. Only forces that affect the current system.
+* Remember to convert your units if they are not in meters or seconds!
 
 # Physics 1118 Formula Sheet
 
