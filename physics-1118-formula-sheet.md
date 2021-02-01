@@ -57,6 +57,8 @@ f (frequency) = how many revolutions per second = 1/T Hz (hertz)
 
 Circumference = c = 2π * Radius
 
+2π / T = Radians per Second = Angular Velocity
+
 ω<sub>z</sub> = constant angular velocity
 
 d (diameter) = 2r
