@@ -56,6 +56,8 @@ f (frequency) = how many revolutions per second = 1/T Hz (hertz)
 
 Circumference = c = 2π * Radius
 
+d (diameter) = 2r
+
 How Velocity Acts in Circular Motion:
 ![](assets/images/circle-motion.png)
 
