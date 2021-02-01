@@ -58,6 +58,10 @@ Circumference = c = 2π * Radius
 
 d (diameter) = 2r
 
+Change in angle formula:
+
+> Δθ = Δs / r (Δs = change in arc length)
+
 How Velocity Acts in Circular Motion:
 ![](assets/images/circle-motion.png)
 
