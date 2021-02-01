@@ -75,7 +75,7 @@ Change in angle formula (θ in radians):
 How Velocity Acts in Circular Motion:
 ![](assets/images/circle-motion.png)
 
-Velocity Equation for Uniform Circular Motion:
+Angular Velocity Equation for Uniform Circular Motion:
 > v = 2πr / T = Circumference / Period
 
 (Magnitude of Centripetal) Acceleration 
