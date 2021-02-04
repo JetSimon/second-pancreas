@@ -59,6 +59,8 @@ Circumference = c = 2π * Radius
 
 2π / T = Radians per Second = Angular Velocity
 
+ω = angular speed (no magnitude)
+
 ω<sub>z</sub> = constant angular velocity
 
 d (diameter) = 2r
@@ -85,6 +87,14 @@ Linear Velocity Equation for Uniform Circular Motion:
 
 Get Angle at Time (θ in radians):
 > θ = (-π/30 * t) + (π/2)
+
+Centripetal (towards the center) Force (not a force):
+
+> F<sub>c</sub> = m(v<sup>2</sup> / r) = rω<sup>2</sup>
+
+
+Banked (angled) Curve (no friction):
+> θ = tan<sup>-1</sup>(v<sup>2</sup> / rg)
 
 Angles Chart:
 
