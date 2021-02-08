@@ -104,3 +104,7 @@ Angles Chart:
 
 Force of Gravity:
 ![](assets/images/gravity-formula.png)
+
+Kepler's Third Law:
+
+ > T<sub>1</sub><sup>2</sup> / T<sub>2</sub><sup>2</sup> = r<sub>1</sub><sup>3</sup> / r<sub>2</sub><sup>3</sup>
