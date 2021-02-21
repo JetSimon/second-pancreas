@@ -108,3 +108,15 @@ Force of Gravity:
 Kepler's Third Law:
 
  > T<sub>1</sub><sup>2</sup> / T<sub>2</sub><sup>2</sup> = r<sub>1</sub><sup>3</sup> / r<sub>2</sub><sup>3</sup>
+
+ ## Torque
+
+ Perpendicular is best for best torque. 
+
+r = distance from point of force to pivot point
+
+ > τ = r * F * sin(θ)
+
+ > r<sub>arm</sum> = r * sin(θ)
+
+ 
