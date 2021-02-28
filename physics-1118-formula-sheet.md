@@ -119,4 +119,23 @@ r = distance from point of force to pivot point
 
  > r<sub>arm</sum> = r * sin(θ)
 
- 
+ ## Momentum 
+
+Units: Newtons per second or Kilogram meters per second
+
+Momentum is a vector so it can have angles in problems. You can have a p<sub>x</sub> and p<sub>y</sub>
+
+ > p = mv
+
+> Δp = Δ(mv)
+
+ > F<sub>net</sub> = Δp/Δt
+
+Impulse: 
+
+ > Δp = F<sub>net</sub>Δt
+
+It is always possible to find a larger system where momentum is conserved.
+
+Momentum is conserved in collision if friction/etc is negligible. 
+
