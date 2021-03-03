@@ -49,6 +49,7 @@ Where N is usually weight
 Kinematic (Moving) Friction:
 >f<sub>k</sub> = μ<sub>k</sub>N
 
+>F<sub>spring</sub> = k * x = spring constant * distance compressed/stretched
 ## Centripetal Force
 
 T = period of motion (how long it takes to get to the same spot in the circle).
@@ -109,7 +110,7 @@ Kepler's Third Law:
 
  > T<sub>1</sub><sup>2</sup> / T<sub>2</sub><sup>2</sup> = r<sub>1</sub><sup>3</sup> / r<sub>2</sub><sup>3</sup>
 
- ## Torque
+## Torque
 
  Perpendicular is best for best torque. 
 
@@ -119,7 +120,7 @@ r = distance from point of force to pivot point
 
  > r<sub>arm</sum> = r * sin(θ)
 
- ## Momentum 
+## Momentum 
 
 Units: Newtons per second or Kilogram meters per second
 
@@ -139,3 +140,30 @@ It is always possible to find a larger system where momentum is conserved.
 
 Momentum is conserved in collision if friction/etc is negligible. 
 
+## Work + Energy
+
+Work is force * distance = Newton Meters = Joules
+
+Work is a change in energy
+
+Work is a vector, so split it up!
+
+> Work = F * d
+
+Kinetic Energy = Energy of Motion
+
+> KE = 1/2m * v<sup>2</sup>
+
+Potential Energy = Energy that could be used for work
+
+(Gravitational potential energy is the energy gravity could do on something if it is held in the air)
+
+> PE<sub>gravity</sub> = m * g * h = mass * g * height
+
+> PE<sub>spring</sub> = 1/2k * x<sup>2</sup> = 1/2 spring constant * distance<sup>2</sup>
+
+A conservative system doesn't lose energy through work!
+
+In a conservative system:
+
+> KE<sub>1</sub> + PE<sub>1</sub> = KE<sub>2</sub> + PE<sub>2</sub>
