@@ -183,6 +183,6 @@ There are two types of charges, + and -. Measured in Coulomb (C)
 > Coulomb's Law: Opposite charges attract, like charges repel.
 
 Magnitude of electrostatic force between two charges separated by a distance r is given by the equation:
-> F<sub>e</sub> = k(|q1 * q2| / r<sup>2</sup>)
+> F<sub>e</sub> = k(\|q1 * q2\| / r<sup>2</sup>)
 
 > k = 8.99 x 10<sup>9</sup>
