@@ -167,3 +167,22 @@ A conservative system doesn't lose energy through work!
 In a conservative system:
 
 > KE<sub>1</sub> + PE<sub>1</sub> = KE<sub>2</sub> + PE<sub>2</sub>
+
+## Electricity / Charge / Electric Field
+
+There are two types of charges, + and -. Measured in Coulomb (C)
+
+> e = -1.6 x 10<sup>-19</sup>C
+
+> Electron = -e
+
+> Proton = e
+
+> Neutron = 0
+
+> Coulomb's Law: Opposite charges attract, like charges repel.
+
+Magnitude of electrostatic force between two charges separated by a distance r is given by the equation:
+> F<sub>e</sub> = k(|q1 * q2| / r<sup>2</sup>)
+
+> k = 8.99 x 10<sup>9</sup>
