@@ -186,3 +186,9 @@ Magnitude of electrostatic force between two charges separated by a distance r i
 > F<sub>e</sub> = k(\|q1 * q2\| / r<sup>2</sup>)
 
 > k = 8.99 x 10<sup>9</sup>
+
+Electric field:
+
+> E = F / q
+
+> E = kQ/r<sup>2</sup>
