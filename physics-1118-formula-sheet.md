@@ -192,3 +192,34 @@ Electric field:
 > E = F / q
 
 > E = kQ/r<sup>2</sup>
+
+## Electric Circuits 
+
+I = intensity of current (amps)
+
+V = voltage (volts)
+
+ΔV = change in voltage = V2 - V1
+
+Larger ΔV larger I. Volt meter checks at two points and displays the Δv
+
+Ω = Resistance 
+
+r = internal resistances
+
+ΔV<sub>R</sub> = I * R
+
+ΔV<sub>battery</sub> = E = max volt battery can provide given no load but...
+
+batteries have resistance themselves
+
+ΔV<sub>battery</sub> = E - I*r
+
+Power 
+
+> P = ΔV * I = Watts = Joules per Second
+
+with resistance 
+
+> P = RI<sup>2</sup> = (ΔV)<sup>2</sup> / R
+
