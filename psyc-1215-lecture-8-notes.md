@@ -37,4 +37,35 @@ Mental disorders seldom lead to violence and clinical prediction of violence is 
 
 Psychological disorder rates vary, depending on the time and place of the survey. Poverty is a risk factor. Conditions and experiences associated with poverty contribute to the development of psychological disorders. Some disorders such as schizophernia can drive people into poverty.
 
+---
+
+# List of Disorders
+
+## Obsessive Disorders
+
+### OCD
+
+## Depressive Disorders
+
+### Major Depressive Disorder
+
+* Person experience in absense of drugs or other medical conditions, 2+ weeks with 5+ symptoms. Of which one must be depressed mood or loss of interest/pleasure.
+
+### Persistent Depressive Disorder (Dysthymia)
+
+* Person experiences mildly depressed mood more often than not for at least two years, along with at least two other symptoms
+* Can also be seasonal (SAD)
+
+## Bipolar Disorder
+
+* Disorder in which a person alternates between hopelessness and lethargy and the overexcited state of mania; formerly called manic-depression
+* Mania - A hyperactive wildly optimistic state in which dangerously poor judgment is common
+* Less common than major depressive disorder, but is often less functional
+* Potent predictor of suicide
+
+# Genetic Influences of Disorders
+
+Risk increases if family member has disorder. 37 percent. Linkage analysis points to "chomosome neighbourhood". Many genes work together and produce interacting small effects that increase risk for depression.
+
+Bipolar is very heritable, GAD is least. Schizo second most.
 
