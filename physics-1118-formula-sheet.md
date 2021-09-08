@@ -195,7 +195,7 @@ Electric field:
 
 ## Electric Circuits 
 
-I = intensity of current (amps)
+I = intensity of current (amps) = Δq/Δt = C per second
 
 V = voltage (volts)
 
