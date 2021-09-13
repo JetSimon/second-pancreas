@@ -45,4 +45,18 @@ Satisfiability - that it can be made true by at least one case
 
 Breaking something down to just NOT, AND, and OR. 
 
+CNF = conjunction normal form
+
+Just breaking down all the statements into base components
+
 ---
+
+Disjunction - OR of clauses
+
+Conjunction - AND of clauses
+
+There are disjunctive and conjunctive forms. Where they are primarily made up of OR, AND respectively.
+
+---
+
+
