@@ -24,6 +24,7 @@ Converse is when you switch p & q remember with CONVERSE SNEAKERS WORN ON DIFFER
 ---
 
 ![](assets/images/logictable.png)
+![](assets/images/quantif.png)
 
 --- 
 
