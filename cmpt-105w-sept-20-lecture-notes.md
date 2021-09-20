@@ -94,3 +94,14 @@ Deductive arguments are shorter, read faster, and are faster absorbed. Inductive
   * Is a story
   * Records events in a more or less chronological sequence
 
+
+# Complex Rhetorical Patterns
+
+* Situation-problem-solution-evaluation
+  * Describe situation, analyze problem, create solution, evaluate how it works
+
+* Cause-effect
+  * It aims to answer particular questions: What if? Why did something happen?
+
+
+
