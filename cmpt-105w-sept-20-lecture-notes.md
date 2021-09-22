@@ -103,5 +103,16 @@ Deductive arguments are shorter, read faster, and are faster absorbed. Inductive
 * Cause-effect
   * It aims to answer particular questions: What if? Why did something happen?
 
+* Comparison and contrast
+  * A pattern that analyzes two or more things based on established criteria 
+
+* Definition 
+  * A definition uses words to establish the meaning of a thing 
+  * Short definitions are vital to technical writing.
+  * Mechanism and process descriptions use definitions at the beginning of their sections
+
+
+
+
 
 
