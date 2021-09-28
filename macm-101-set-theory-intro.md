@@ -50,7 +50,7 @@ A ⊄ B
 
 ## Cardinality 
 
-If a set S and n distinct elements for some natural number n, n is the cardinality (size) of S and S is a finite set. The cardinality of S is denoted by |S|.
+If a set S and n distinct elements for some natural number n, n is the cardinality (size) of S and S is a finite set. The cardinality of S is denoted by | S |.
 
 ex: ```|S| where S = {3,2,1} is 3```
 
@@ -72,7 +72,7 @@ Notice in the above example that {1,2} == A. So P(A) contains A. P(A) also conta
 
 ### Cardinality
 
-For any set A with |A| = n, if n >= 0, A has 2^n subsets. Therefore |P(A)| = 2^n.
+For any set A with | A | = n, if n >= 0, A has 2^n subsets. Therefore |P(A)| = 2^n.
 
 ---
 
