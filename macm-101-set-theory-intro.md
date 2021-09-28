@@ -66,7 +66,7 @@ There exist uncountable sets.
 
 The power set of a set, A, is the set of all subsets of A, denoted by P(A).
 
-```ex: Given A = {1,2} then P(A) = {{}, {1}, {2}, {1,2}}``` 
+```ex: Given A = {1,2} then P(A) = { {}, {1}, {2}, {1,2} }``` 
 
 Notice in the above example that {1,2} == A. So P(A) contains A. P(A) also contains the empty set!
 
