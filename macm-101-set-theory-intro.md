@@ -14,7 +14,9 @@ Uppercase letters for sets, lowercase letters for elements. (a belongs to A)
 
 We use curly brackets to denote sets, like python: A = {a,b,c}
 
-Sets may repeat or be unordered and still be the same.
+Sets may be unordered and still be the same.
+
+Sets may not repeat unless they are a MULTI SET. Otherwise you may not have repetition.
 
 ---
 
@@ -63,6 +65,8 @@ There exist uncountable sets.
 ---
 
 ## Power Set
+
+ONLY APPLIES TO A NORMAL SET NOT A MULTI SET
 
 The power set of a set, A, is the set of all subsets of A, denoted by P(A).
 
