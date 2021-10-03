@@ -96,5 +96,8 @@ If two sets have NO elements in common, they are disjoint sets.
 
 ---
 
+# Cartestian Products
 
+Let A and B be sets. The cartesian product is the set of all ordered pairs (a, b) where a is a member of A and be is a member of B.
 
+Example: {1,2} X {a,b,c} = {(1,a), (1,b), (1,c), (2,a), (2,b), (2,c)}
