@@ -76,7 +76,7 @@ Notice in the above example that {1,2} == A. So P(A) contains A. P(A) also conta
 
 ### Cardinality
 
-For any set A with | A | = n, if n >= 0, A has 2^n subsets. Therefore |P(A)| = 2^n.
+For any set A with cardinality = n, if n >= 0, A has 2^n subsets. Therefore |P(A)| = 2^n.
 
 ---
 
